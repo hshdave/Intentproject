@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Intentproject</string>
+    <string name="alert">Are sure want to go?</string>
 </resources>
